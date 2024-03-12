@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT7833
+D Low Dropout Regulators(LDO) SOT-23-5 RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/1809291540_Holtek-Semicon-HT7833_C164106.pdf
+$ENDCMP
+#
+#End Doc Library

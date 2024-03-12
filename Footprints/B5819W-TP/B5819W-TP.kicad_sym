@@ -1,0 +1,125 @@
+(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
+  (symbol "B5819W-TP" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (at -3.5606 1.9074 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Value" "B5819W-TP" (at -3.559 -3.4319 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Footprint" "SOD3716X135N" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MANUFACTURER" "Micro Commercial Components" (at 1.27 1.27 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "B5819W-TP_0_0"
+      (polyline
+        (pts
+          (xy -5.08 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 -1.27)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 0)
+          (xy -1.27 -1.27)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 1.27)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 -1.016)
+          (xy 0.635 -1.27)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 -1.27)
+          (xy 0.635 -1.27)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy -1.27 1.27)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 1.27 -1.27)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 5.08 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 1.27)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 1.27)
+          (xy 1.27 1.27)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 1.27)
+          (xy 1.905 1.016)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -5.08 0 0) (length 2.54)
+        (name "A" (effects (font (size 1.016 1.016))))
+        (number "A" (effects (font (size 1.016 1.016))))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "C" (effects (font (size 1.016 1.016))))
+        (number "C" (effects (font (size 1.016 1.016))))
+      )
+    )
+  )
+)
